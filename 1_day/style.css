@@ -1,0 +1,9 @@
+button {
+    color: #ffffff;
+    background-color: #690eb3;
+    border-color: #000000;
+}
+
+html {
+    scroll-behavior: smooth;
+}
