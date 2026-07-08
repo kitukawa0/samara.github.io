@@ -77,6 +77,7 @@ hr{
     );
 
     box-shadow:0 0 8px #38c0ff;
+    scroll-behavior: smooth;
 }
 
 /* ---------- Кнопки ---------- */
@@ -92,6 +93,12 @@ hr{
 .button:hover{
     transform:scale(1.08);
     box-shadow:var(--box-shadow);
+}
+
+.button-ukraine {
+    text-decoration: none;
+    color: white;
+    
 }
 
 /* ---------- Hero ---------- */
